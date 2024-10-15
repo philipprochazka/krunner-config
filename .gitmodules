@@ -1,0 +1,9 @@
+[submodule "binary-krunner"]
+	path = binary-krunner
+	url = https://github.com/philipprochazka/krunner.git
+[submodule "extensions/krunner-vscodeprojects"]
+	path = extensions/krunner-vscodeprojects
+	url = https://github.com/alex1701c/krunner-vscodeprojects.git
+[submodule "extensions/krunner-firefox"]
+	path = extensions/krunner-firefox
+	url = https://github.com/alex1701c/krunner-firefox.git
